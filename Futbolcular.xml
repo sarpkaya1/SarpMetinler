@@ -1,0 +1,68 @@
+<BesiktaşIlk11>
+    <Futbolcu1>
+        <name>Mert Günok</name>
+        <height>196</height>
+        <weight>85</weight>
+        <position>Kaleci</position>
+    </Futbolcu1>
+    <Futbolcu2>
+        <name>Onur Bulut</name>
+        <height>182</height>
+        <weight>80</weight>
+        <position>Sol Açık</position>
+    </Futbolcu2>
+    <Futbolcu3>
+        <name>Necip Uysal</name>
+        <height>185</height>
+        <weight>80</weight>
+        <position>Stoper</position>
+    </Futbolcu3>
+    <Futbolcu4>
+        <name>Omar Coley</name>
+        <height>190</height>
+        <weight>86</weight>
+        <position>Stoper</position>
+    </Futbolcu4>
+    <Futbolcu5>
+        <name>Arthur Masuaku</name>
+        <height>185</height>
+        <weight>86</weight>
+        <position>Sağ Açık</position>
+    </Futbolcu5>
+    <Futbolcu6>
+        <name>Al Musrati</name>
+        <height>190</height>
+        <weight>90</weight>
+        <position>Orta Saha</position>
+    </Futbolcu6>
+    <Futbolcu7>
+        <name>Salih Uçan</name>
+        <height>180</height>
+        <weight>78</weight>
+        <position>Orta Saha</position>
+    </Futbolcu7>
+    <Futbolcu8>
+        <name>Gedson Fernandes</name>
+        <height>178</height>
+        <weight>73</weight>
+        <position>Orta Saha</position>
+    </Futbolcu8>
+    <Futbolcu9>
+        <name>Muçi</name>
+        <height>176</height>
+        <weight>73</weight>
+        <position>Sol Açık</position>
+    </Futbolcu9>
+    <Futbolcu10>
+        <name>Ghezzal</name>
+        <height>178</height>
+        <weight>76</weight>
+        <position>Sağ Açık</position>
+    </Futbolcu10>
+    <Futbolcu11>
+        <name>Muleka</name>
+        <height>182</height>
+        <weight>78</weight>
+        <position>Santrafor</position>
+    </Futbolcu11>
+</BesiktaşIlk11>

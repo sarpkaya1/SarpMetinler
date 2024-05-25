@@ -1,0 +1,70 @@
+{
+  "Beşiktaş İlk 11 ": [
+    {
+      "name": "Mert Günok",
+      "height": 196,
+      "weight": 85,
+      "position": "Kaleci"
+    },
+    {
+      "name": "Onur Bulut",
+      "height": 182,
+      "weight": 80,
+      "position": "Sol Açık"
+    },
+    {
+      "name": "Necip Uysal",
+      "height": 185,
+      "weight": 80,
+      "position": "Stoper"
+    },
+    {
+      "name": "Omar Coley",
+      "height": 190,
+      "weight": 86,
+      "position": "Stoper"
+    },
+    {
+      "name": "Artur Masuaku",
+      "height": 185,
+      "weight": 86,
+      "position": "Sağ Açık"
+    },
+    {
+      "name": "Salih Uçan",
+      "height": 180,
+      "weight": 78,
+      "position": "Orta Saha"
+    },
+    {
+      "name": "Al Musrati",
+      "height": 186,
+      "weight": 85,
+      "position": "Orta Saha"
+    },
+    {
+      "name": "Gedson Fernandes",
+      "height": 178,
+      "weight": 75,
+      "position": "Orta Saha"
+    },
+    {
+      "name": "Muçi",
+      "height": 176,
+      "weight": 78,
+      "position": "Sol Açık"
+    },
+    {
+      "name": "Ghezzal",
+      "height": 178,
+      "weight": 76,
+      "position": "Sağ Açık"
+    },
+    {
+      "name": "Muleka",
+      "height": 180,
+      "weight": 76,
+      "position": "Santrafor"
+    }
+  ]
+}
